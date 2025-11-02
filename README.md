@@ -59,8 +59,8 @@
 
 | Название | Файл |
 |-----------|------|
-| 📂 Тест-кейсы | [Test_Case_Mesto.xlsx](./Test_Case_Mesto.xlsx.xlsx) |
-| 📂 Баг-репорты | [Bug_Report_Mesto.xlsx](./Bug_Report_Mesto.xlsx.xlsx) |
+| 📂 Тест-кейсы | [Скачать XLSX](./Test_Case_Mesto.xlsx.xlsx) |
+| 📂 Баг-репорты | [Скачать XLSX](./Bug_Report_Mesto.xlsx.xlsx) |
 
 ---
 
