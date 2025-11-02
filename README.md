@@ -55,10 +55,12 @@
 
 ---
 
-## 🧾 Файлы проекта
+## 📊 Материалы проекта
 
-📂 [Bug_Report_Mesto.xlsx](./Bug_Report_Mesto.xlsx.xlsx)  
-📂 [Test_Case_Mesto.xlsx](./Test_Case_Mesto.xlsx.xlsx)
+| Название | Файл |
+|-----------|------|
+| 📂 Тест-кейсы | [Test_Case_Mesto.xlsx](./Test_Case_Mesto.xlsx.xlsx) |
+| 📂 Баг-репорты | [Bug_Report_Mesto.xlsx](./Bug_Report_Mesto.xlsx.xlsx) |
 
 ---
 
