@@ -57,8 +57,8 @@
 
 ## 🧾 Файлы проекта
 
-📂 [Bug_Report_Mesto.xlsx](./Bug_Report_Mesto.xlsx)  
-📂 [Test_Case_Mesto.xlsx](./Test_Case_Mesto.xlsx)
+📂 [Bug_Report_Mesto.xlsx](./Bug_Report_Mesto.xlsx.xlsx)  
+📂 [Test_Case_Mesto.xlsx](./Test_Case_Mesto.xlsx.xlsx)
 
 ---
 
